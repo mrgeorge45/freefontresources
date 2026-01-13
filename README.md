@@ -13,14 +13,14 @@ You can directly download some popular fonts from this project:
 
 ## Free Font Style
 
-[DAFontStyle Freefont](https://dafont.style/) provides a variety of font styles in one place. Whether you're working on a design project, exploring fonts as a hobby, or adding a unique look to your work, you can browse fonts ranging from simple and clean to bold and decorative.
+ ALl these free font provides a variety of font styles in one place. Whether you're working on a design project, exploring fonts as a hobby, or adding a unique look to your work, you can browse fonts ranging from simple and clean to bold and decorative.
 
 ## Other Font Resources
 
 - [Google Fonts](https://fonts.google.com/)
-- [My Custom Fonts](https://mrgeorge45.github.io/freedownloadfonts/)
 - [101 Fonts](https://www.1001fonts.com/)
 - [FontSpace](https://www.fontspace.com)
+- [DAFontStyle Freefont](https://dafont.style/)
 - [Adobe Fonts](https://fonts.adobe.com/)
 - [Creative Fabrica](https://www.creativefabrica.com/)
 - [BeFonts](https://befonts.com/)
