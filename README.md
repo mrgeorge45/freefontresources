@@ -13,7 +13,7 @@ You can directly download some popular fonts from this project:
 
 ## Free Font Style
 
-[Dafont Style - Free Font](https://dafont.style/) provides a variety of font styles in one place. Whether you're working on a design project, exploring fonts as a hobby, or adding a unique look to your work, you can browse fonts ranging from simple and clean to bold and decorative.
+[DAFontStyle Freefont](https://dafont.style/) provides a variety of font styles in one place. Whether you're working on a design project, exploring fonts as a hobby, or adding a unique look to your work, you can browse fonts ranging from simple and clean to bold and decorative.
 
 ## Other Font Resources
 
